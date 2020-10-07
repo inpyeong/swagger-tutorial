@@ -1,1 +1,1 @@
-# swagger_tutorial
+# swagger-tutorial
